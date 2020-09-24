@@ -5,7 +5,6 @@ C:\Users\Ryan\source\repos\RescueYourPet\bin\Debug\netcoreapp2.1\RescueYourPet.d
 C:\Users\Ryan\source\repos\RescueYourPet\bin\Debug\netcoreapp2.1\RescueYourPet.pdb
 C:\Users\Ryan\source\repos\RescueYourPet\bin\Debug\netcoreapp2.1\RescueYourPet.Views.dll
 C:\Users\Ryan\source\repos\RescueYourPet\bin\Debug\netcoreapp2.1\RescueYourPet.Views.pdb
-C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.csprojAssemblyReference.cache
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.csproj.CoreCompileInputs.cache
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.RazorAssemblyInfo.cache
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.RazorAssemblyInfo.cs

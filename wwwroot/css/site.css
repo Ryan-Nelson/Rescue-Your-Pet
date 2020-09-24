@@ -35,3 +35,16 @@ body {
         display: none;
     }
 }
+
+.Whats-Are-Mission-Section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.Whats-Are-Mission {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
