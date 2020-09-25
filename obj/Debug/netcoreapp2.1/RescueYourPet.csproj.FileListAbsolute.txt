@@ -29,3 +29,9 @@ C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.V
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.dll
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.pdb
 C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.csproj.CopyComplete
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\RescueYourPet.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\Razor\Views\Emails\Create.g.cshtml.cs
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\Razor\Views\Emails\Delete.g.cshtml.cs
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\Razor\Views\Emails\Details.g.cshtml.cs
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\Razor\Views\Emails\Edit.g.cshtml.cs
+C:\Users\Ryan\source\repos\RescueYourPet\obj\Debug\netcoreapp2.1\Razor\Views\Emails\Index.g.cshtml.cs

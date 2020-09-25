@@ -2,3 +2,11 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
+
+var formPopup = new Form();
+formPopup.Show(this); // if you need non-modal window
+
+$('#myModal').modal("show")
+
+
